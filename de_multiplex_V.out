@@ -1,0 +1,43 @@
+
+------------------------------------------------------------
+Sender: LSF System <lsfadmin@weizmann.ac.il>
+Subject: Job 39169855: <de_multiplex_V> in cluster <wexac> Done
+
+Job <de_multiplex_V> was submitted from host <access2> by user <shaharr> in cluster <wexac> at Mon Mar 13 09:04:18 2023
+Job was executed on host(s) <cn308>, in queue <new-short>, as user <shaharr> in cluster <wexac> at Mon Mar 13 09:04:20 2023
+</home/labs/bfreich/shaharr> was used as the home directory.
+</home/labs/bfreich/shaharr/smurf_preparation_analysis> was used as the working directory.
+Started at Mon Mar 13 09:04:20 2023
+Terminated at Mon Mar 13 09:22:16 2023
+Results reported at Mon Mar 13 09:22:16 2023
+
+Your job looked like:
+
+------------------------------------------------------------
+# LSBATCH: User input
+./Prepare_samples_for_smurf.sh 2_S14/ aux_01_config_file
+------------------------------------------------------------
+
+Successfully completed.
+
+Resource usage summary:
+
+    CPU time :                                   997.79 sec.
+    Max Memory :                                 2630 MB
+    Average Memory :                             977.88 MB
+    Total Requested Memory :                     8000.00 MB
+    Delta Memory :                               5370.00 MB
+    Max Swap :                                   -
+    Max Processes :                              162
+    Max Threads :                                169
+    Run time :                                   1082 sec.
+    Turnaround time :                            1078 sec.
+
+The output (if any) is above this job summary.
+
+
+
+PS:
+
+Read file <de_multiplex_V.err> for stderr output of this job.
+
