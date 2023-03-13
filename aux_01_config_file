@@ -1,7 +1,7 @@
 #!/bin/bash
 
 
-fwd_primer="/home/labs/bfreich/shaharr/SMURF_sample_prep/primers_16S_V1-9_anchored_for.fasta"
-rev_primer="/home/labs/bfreich/shaharr/SMURF_sample_prep/primers_16S_V1-9_anchored_rev.fasta"
-dada_script="/home/labs/bfreich/shaharr/SMURF_sample_prep/aux_02_dada2_all_script.R"
-fasta_to_fastq="/home/labs/bfreich/shaharr/SMURF_sample_prep/aux_03_fasta_to_fastq.pl"
+fwd_primer="/home/labs/bfreich/shaharr/github_repos/SMURF_sample_prep/primers_16S_V1-9_anchored_for.fasta"
+rev_primer="/home/labs/bfreich/shaharr/github_repos/SMURF_sample_prep/primers_16S_V1-9_anchored_rev.fasta"
+dada_script="/home/labs/bfreich/shaharr/github_repos/SMURF_sample_prep/aux_02_dada2_all_script.R"
+fasta_to_fastq="/home/labs/bfreich/shaharr/github_repos/SMURF_sample_prep/aux_03_fasta_to_fastq.pl"
